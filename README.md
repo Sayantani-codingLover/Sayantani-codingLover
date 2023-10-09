@@ -1,8 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sayantani Chattopadhyay</h1>
 <h3 align="center">A passionate full stack developer from Westbengal Kolkata</h3>
 
-<img align="right" alt="I am a coder" width="400px"src="![image](https://github.com/Sayantani-codingLover/github-profile-readme-generator/assets/147368822/faac675f-8573-4408-8518-4b88a8aad051)
-">
+<img align="right" alt="I am a coder" width="400px"src="![image](https://github.com/Sayantani-codingLover/github-profile-readme-generator/assets/147368822/faac675f-8573-4408-8518-4b88a8aad051)">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sayantani-codinglover&label=Profile%20views&color=0e75b6&style=flat" alt="sayantani-codinglover" /> </p>
 
 - 🌱 I’m currently learning **Full Stack Web Development**
